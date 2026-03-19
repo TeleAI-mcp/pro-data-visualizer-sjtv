@@ -1,2 +1,3 @@
-# pro-data-visualizer-sjtv
-Automated issue comment bot repository
+# Pro Data Visualizer Sjtv
+
+Automated issue comment bot repository.
